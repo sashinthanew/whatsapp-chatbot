@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+pymongo==4.8.0
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+pydantic==2.9.0fastapi
+uvicorn
+pymongo
+google-generativeai
+openai
+python-dotenv
+httpx
+pydantic
